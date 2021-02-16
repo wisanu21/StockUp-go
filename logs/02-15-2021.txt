@@ -1,0 +1,70 @@
+2021/02/15 17:52:43 init()
+2021/02/15 17:52:43 run server
+2021/02/15 17:52:43 StartApp()
+2021/02/15 17:52:43 DbConn()
+2021/02/15 17:52:47 Url()
+2021/02/15 17:55:00 GetDB()
+2021/02/15 18:01:53 GetDB()
+2021/02/15 18:02:02 LoginByDeviceID()
+2021/02/15 18:02:02 GetDB()
+2021/02/15 18:02:02 login by device , ID in table is 2
+2021/02/15 18:02:02 new device token for login by device isshHcLpwFpAIDYvMhnqdnshHcL
+2021/02/15 18:02:02 GetDB()
+2021/02/15 18:02:02 update token device successfully
+2021/02/15 18:02:02 GetDataDashboard()
+2021/02/15 18:02:02 GetDB()
+2021/02/15 18:02:02 GetSidebarByEmployeeid()
+2021/02/15 18:02:02 GetDB()
+2021/02/15 18:02:02 GetDB()
+2021/02/15 18:02:02 GetDB()
+2021/02/15 18:02:02 GetDB()
+2021/02/15 18:02:02 GetDB()
+2021/02/15 18:02:02 successfully GetDataDashboard
+2021/02/15 18:03:17 Logout()
+2021/02/15 18:03:17 GetDB()
+2021/02/15 18:03:17 Logout , employee ID in table is 0
+2021/02/15 18:03:18 GetDB()
+2021/02/15 18:03:49 SaveRegister()
+2021/02/15 18:03:49 GetDB()
+2021/02/15 18:03:49 add data in employeeData
+2021/02/15 18:03:49 befor save employeeData
+2021/02/15 18:03:49 GetDB()
+2021/02/15 18:03:49 after save employeeData
+2021/02/15 18:03:49 no err
+2021/02/15 23:02:40 init()
+2021/02/15 23:02:41 run server
+2021/02/15 23:02:41 StartApp()
+2021/02/15 23:02:41 DbConn()
+2021/02/15 23:02:45 Url()
+2021/02/15 23:11:28 LoginByDeviceID()
+2021/02/15 23:11:28 GetDB()
+2021/02/15 23:11:28 record not found
+2021/02/15 23:11:36 LoginByDeviceID()
+2021/02/15 23:11:36 GetDB()
+2021/02/15 23:11:36 record not found
+2021/02/15 23:12:03 init()
+2021/02/15 23:12:03 run server
+2021/02/15 23:12:03 StartApp()
+2021/02/15 23:12:03 DbConn()
+2021/02/15 23:12:03 Url()
+2021/02/15 23:12:21 LoginByDeviceID()
+2021/02/15 23:12:21 GetDB()
+2021/02/15 23:12:21 record not found
+2021/02/15 23:13:42 GetDB()
+2021/02/15 23:13:53 LoginByDeviceID()
+2021/02/15 23:13:53 GetDB()
+2021/02/15 23:13:53 record not found
+2021/02/15 23:14:08 Login()
+2021/02/15 23:14:08 GetDB()
+2021/02/15 23:14:08 login by mobile password , ID in table is 8
+2021/02/15 23:14:08 GetDB()
+2021/02/15 23:14:08 save device , table device id is : 1
+2021/02/15 23:14:08 GetDataDashboard()
+2021/02/15 23:14:08 GetDB()
+2021/02/15 23:14:08 GetSidebarByEmployeeid()
+2021/02/15 23:14:08 GetDB()
+2021/02/15 23:14:09 GetDB()
+2021/02/15 23:14:09 GetDB()
+2021/02/15 23:14:09 GetDB()
+2021/02/15 23:14:09 GetDB()
+2021/02/15 23:14:09 successfully GetDataDashboard

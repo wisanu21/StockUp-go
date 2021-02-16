@@ -25,10 +25,12 @@ func GetDataDashboard(c *gin.Context) {
 		Select(
 			"employees.first_name as employees_first_name," +
 				"employees.last_name as employees_last_name," +
+				"employees.path_image as employees_path_image," +
 				"levels.name as levels_name," +
-				"employees.id as employees_id" +
+				"employees.id as employees_id," +
+				"companies.path_image as companies_path_image" +
 				"").
-		// Joins("left join companies on companies.id = employees.company_id").
+		Joins("left join companies on companies.id = employees.company_id").
 		Joins("left join levels on levels.id = employees.level_id").
 		Find(&result)
 	fmt.Println(result)

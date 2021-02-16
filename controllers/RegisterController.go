@@ -1,11 +1,16 @@
 package Controller
 
 import (
+	"bytes"
+	"encoding/base64"
 	"fmt"
+	"io"
+	"os"
 	"stockup-go/config"
 	helper "stockup-go/helper"
 	"stockup-go/models"
 	"strconv"
+	"strings"
 	"time"
 
 	"github.com/gin-gonic/gin"
@@ -14,12 +19,13 @@ import (
 type RegisterController struct{}
 
 type request_SaveRegister struct {
-	Select_company string `json:"select_company"`
-	Text_fname     string `json:"text_fname"`
-	Text_lname     string `json:"text_lname"`
-	Text_phone     string `json:"text_phone"`
-	Text_password  string `json:"text_password"`
-	Text_easy_name string `json:"text_easy_name"`
+	Select_company   string `json:"select_company"`
+	Text_fname       string `json:"text_fname"`
+	Text_lname       string `json:"text_lname"`
+	Text_phone       string `json:"text_phone"`
+	Text_password    string `json:"text_password"`
+	Text_easy_name   string `json:"text_easy_name"`
+	Bytes_image_file string `json:"bytes_image_file"`
 }
 
 func SaveRegister(c *gin.Context) {
@@ -58,7 +64,9 @@ func SaveRegister(c *gin.Context) {
 		employeeData.Created_at = time.Now()
 		employeeData.Easy_name = request.Text_easy_name
 		// employeeData.Prefix_name_id =
-
+		helper.Log("end save detail employeeData")
+		helper.Log("save image employeeData")
+		employeeData.Path_image = saveImageEmployee(request.Bytes_image_file)
 		helper.Log("befor save employeeData")
 		err = config.GetDB().Save(&employeeData)
 		fmt.Println(employeeData.Id)
@@ -83,6 +91,24 @@ func SaveRegister(c *gin.Context) {
 
 	}
 
+}
+
+func saveImageEmployee(bytes_image_file string) string {
+	// return "dsdf"
+	coI := strings.Index(string(bytes_image_file), ",")
+	rawImage := string(bytes_image_file)[coI+1:]
+	unbased, _ := base64.StdEncoding.DecodeString(string(rawImage))
+	res := bytes.NewReader(unbased)
+
+	file, err := os.Create("storage/employee/asdf.jpg")
+	///storage/employee/asdf.jpg
+	if err != nil {
+		helper.Log(err.Error())
+	}
+	defer file.Close()
+	io.Copy(file, res)
+
+	return " "
 }
 
 func addMenuFirstEmployee(employee_id int) {

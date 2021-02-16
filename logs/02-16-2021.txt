@@ -1,0 +1,628 @@
+2021/02/16 14:07:06 init()
+2021/02/16 14:07:06 run server
+2021/02/16 14:07:06 StartApp()
+2021/02/16 14:07:06 DbConn()
+2021/02/16 14:07:10 Url()
+2021/02/16 14:07:52 init()
+2021/02/16 14:07:52 run server
+2021/02/16 14:07:52 StartApp()
+2021/02/16 14:07:52 DbConn()
+2021/02/16 14:07:52 Url()
+2021/02/16 14:55:45 LoginByDeviceID()
+2021/02/16 14:55:45 GetDB()
+2021/02/16 14:55:45 login by device , ID in table is 1
+2021/02/16 14:55:45 new device token for login by device isshHcLpwFpAIDYvMhnqdnshHcL
+2021/02/16 14:55:45 GetDB()
+2021/02/16 14:55:45 update token device successfully
+2021/02/16 14:55:45 GetDataDashboard()
+2021/02/16 14:55:46 GetDB()
+2021/02/16 14:55:46 GetSidebarByEmployeeid()
+2021/02/16 14:55:46 GetDB()
+2021/02/16 14:55:46 GetDB()
+2021/02/16 14:55:46 GetDB()
+2021/02/16 14:55:46 GetDB()
+2021/02/16 14:55:46 GetDB()
+2021/02/16 14:55:46 successfully GetDataDashboard
+2021/02/16 15:03:41 init()
+2021/02/16 15:03:41 run server
+2021/02/16 15:03:41 StartApp()
+2021/02/16 15:03:41 DbConn()
+2021/02/16 15:03:41 Url()
+2021/02/16 15:05:50 LoginByDeviceID()
+2021/02/16 15:05:50 GetDB()
+2021/02/16 15:05:50 login by device , ID in table is 1
+2021/02/16 15:05:50 new device token for login by device isshHcLpwFpAIDYvMhnqdnshHcL
+2021/02/16 15:05:50 GetDB()
+2021/02/16 15:05:50 update token device successfully
+2021/02/16 15:06:05 GetDataDashboard()
+2021/02/16 15:06:05 GetDB()
+2021/02/16 15:06:05 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.path_image as companies_path_image FROM `employees` left join companies on comp' at line 1
+2021/02/16 15:07:18 init()
+2021/02/16 15:07:18 run server
+2021/02/16 15:07:18 StartApp()
+2021/02/16 15:07:18 DbConn()
+2021/02/16 15:07:18 Url()
+2021/02/16 15:07:37 LoginByDeviceID()
+2021/02/16 15:07:37 GetDB()
+2021/02/16 15:07:37 login by device , ID in table is 1
+2021/02/16 15:07:37 new device token for login by device isshHcLpwFpAIDYvMhnqdnshHcL
+2021/02/16 15:07:37 GetDB()
+2021/02/16 15:07:37 update token device successfully
+2021/02/16 15:08:52 GetDataDashboard()
+2021/02/16 15:08:52 GetDB()
+2021/02/16 15:08:52 GetSidebarByEmployeeid()
+2021/02/16 15:08:52 GetDB()
+2021/02/16 15:08:52 GetDB()
+2021/02/16 15:08:52 GetDB()
+2021/02/16 15:08:52 GetDB()
+2021/02/16 15:08:52 GetDB()
+2021/02/16 15:08:52 successfully GetDataDashboard
+2021/02/16 15:09:05 LoginByDeviceID()
+2021/02/16 15:09:05 GetDB()
+2021/02/16 15:09:05 login by device , ID in table is 1
+2021/02/16 15:09:05 new device token for login by device isbfAyODngrPEawlMuseISsiGbf
+2021/02/16 15:09:05 GetDB()
+2021/02/16 15:09:05 update token device successfully
+2021/02/16 15:09:10 GetDataDashboard()
+2021/02/16 15:09:10 GetDB()
+2021/02/16 15:09:10 GetSidebarByEmployeeid()
+2021/02/16 15:09:10 GetDB()
+2021/02/16 15:09:10 GetDB()
+2021/02/16 15:09:10 GetDB()
+2021/02/16 15:09:10 GetDB()
+2021/02/16 15:09:10 GetDB()
+2021/02/16 15:09:10 successfully GetDataDashboard
+2021/02/16 15:14:44 LoginByDeviceID()
+2021/02/16 15:14:44 GetDB()
+2021/02/16 15:14:44 login by device , ID in table is 1
+2021/02/16 15:14:44 new device token for login by device isRDyKheeDhZgYNgPvVALrIRDyK
+2021/02/16 15:14:44 GetDB()
+2021/02/16 15:14:44 update token device successfully
+2021/02/16 15:14:45 GetDataDashboard()
+2021/02/16 15:14:45 GetDB()
+2021/02/16 15:14:45 GetSidebarByEmployeeid()
+2021/02/16 15:14:45 GetDB()
+2021/02/16 15:14:45 GetDB()
+2021/02/16 15:14:45 GetDB()
+2021/02/16 15:14:45 GetDB()
+2021/02/16 15:14:45 GetDB()
+2021/02/16 15:14:45 successfully GetDataDashboard
+2021/02/16 15:15:21 LoginByDeviceID()
+2021/02/16 15:15:21 GetDB()
+2021/02/16 15:15:21 login by device , ID in table is 1
+2021/02/16 15:15:21 new device token for login by device isFlTZyHzvMKAveOlolBDFlTZyx
+2021/02/16 15:15:21 GetDB()
+2021/02/16 15:15:21 update token device successfully
+2021/02/16 15:15:22 GetDataDashboard()
+2021/02/16 15:15:22 GetDB()
+2021/02/16 15:15:22 GetSidebarByEmployeeid()
+2021/02/16 15:15:22 GetDB()
+2021/02/16 15:15:22 GetDB()
+2021/02/16 15:15:22 GetDB()
+2021/02/16 15:15:22 GetDB()
+2021/02/16 15:15:22 GetDB()
+2021/02/16 15:15:22 successfully GetDataDashboard
+2021/02/16 15:20:14 LoginByDeviceID()
+2021/02/16 15:20:14 GetDB()
+2021/02/16 15:20:14 login by device , ID in table is 1
+2021/02/16 15:20:14 new device token for login by device islfysEMkBFSeefssxRngOswlfy
+2021/02/16 15:20:14 GetDB()
+2021/02/16 15:20:14 update token device successfully
+2021/02/16 15:20:14 GetDataDashboard()
+2021/02/16 15:20:14 GetDB()
+2021/02/16 15:20:14 GetSidebarByEmployeeid()
+2021/02/16 15:20:14 GetDB()
+2021/02/16 15:20:14 GetDB()
+2021/02/16 15:20:14 GetDB()
+2021/02/16 15:20:14 GetDB()
+2021/02/16 15:20:14 GetDB()
+2021/02/16 15:20:14 successfully GetDataDashboard
+2021/02/16 15:21:40 LoginByDeviceID()
+2021/02/16 15:21:40 GetDB()
+2021/02/16 15:21:40 login by device , ID in table is 1
+2021/02/16 15:21:40 new device token for login by device isRmXlmdBzOWxUyxulmRmXlRxHD
+2021/02/16 15:21:40 GetDB()
+2021/02/16 15:21:40 update token device successfully
+2021/02/16 15:21:41 GetDataDashboard()
+2021/02/16 15:21:41 GetDB()
+2021/02/16 15:21:41 GetSidebarByEmployeeid()
+2021/02/16 15:21:41 GetDB()
+2021/02/16 15:21:41 GetDB()
+2021/02/16 15:21:41 GetDB()
+2021/02/16 15:21:41 GetDB()
+2021/02/16 15:21:41 GetDB()
+2021/02/16 15:21:41 successfully GetDataDashboard
+2021/02/16 15:24:26 LoginByDeviceID()
+2021/02/16 15:24:26 GetDB()
+2021/02/16 15:24:26 login by device , ID in table is 1
+2021/02/16 15:24:26 new device token for login by device isPWIULdrfrAcuedslylPWIULIk
+2021/02/16 15:24:26 GetDB()
+2021/02/16 15:24:26 update token device successfully
+2021/02/16 15:24:26 GetDataDashboard()
+2021/02/16 15:24:26 GetDB()
+2021/02/16 15:24:26 GetSidebarByEmployeeid()
+2021/02/16 15:24:26 GetDB()
+2021/02/16 15:24:26 GetDB()
+2021/02/16 15:24:26 GetDB()
+2021/02/16 15:24:26 GetDB()
+2021/02/16 15:24:26 GetDB()
+2021/02/16 15:24:26 successfully GetDataDashboard
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:32:08 GetDB()
+2021/02/16 15:33:12 GetDB()
+2021/02/16 15:33:12 GetDB()
+2021/02/16 15:33:12 GetDB()
+2021/02/16 15:33:12 GetDB()
+2021/02/16 15:33:12 GetDB()
+2021/02/16 15:33:12 GetDB()
+2021/02/16 15:33:12 GetDB()
+2021/02/16 15:35:21 init()
+2021/02/16 15:35:21 run server
+2021/02/16 15:35:21 StartApp()
+2021/02/16 15:35:21 DbConn()
+2021/02/16 15:35:21 Url()
+2021/02/16 15:36:14 init()
+2021/02/16 15:36:14 run server
+2021/02/16 15:36:14 StartApp()
+2021/02/16 15:36:14 DbConn()
+2021/02/16 15:36:14 Url()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:26 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:38:27 GetDB()
+2021/02/16 15:39:10 init()
+2021/02/16 15:39:10 run server
+2021/02/16 15:39:10 StartApp()
+2021/02/16 15:39:10 DbConn()
+2021/02/16 15:39:10 Url()
+2021/02/16 15:39:38 GetDB()
+2021/02/16 15:39:38 GetDB()
+2021/02/16 15:39:38 GetDB()
+2021/02/16 15:39:38 GetDB()
+2021/02/16 15:39:38 GetDB()
+2021/02/16 15:39:38 GetDB()
+2021/02/16 15:39:38 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:39:39 GetDB()
+2021/02/16 15:41:15 GetDB()
+2021/02/16 15:41:16 GetDB()
+2021/02/16 15:41:16 GetDB()
+2021/02/16 15:41:16 GetDB()
+2021/02/16 15:41:16 GetDB()
+2021/02/16 15:41:16 GetDB()
+2021/02/16 15:41:16 GetDB()
+2021/02/16 15:42:59 GetDB()
+2021/02/16 15:44:23 GetDB()
+2021/02/16 15:44:47 SaveRegister()
+2021/02/16 15:44:47 GetDB()
+2021/02/16 15:44:47 add data in employeeData
+2021/02/16 15:44:47 befor save employeeData
+2021/02/16 15:44:47 GetDB()
+2021/02/16 15:44:47 after save employeeData
+2021/02/16 15:44:47 addMenuFirstEmployee()1
+2021/02/16 15:44:47 GetDB()
+2021/02/16 15:44:47 GetDB()
+2021/02/16 15:44:47 save menuEmployee 
+2021/02/16 15:44:47 employee_id : 1
+2021/02/16 15:44:47 Menu_id : 1
+2021/02/16 15:44:47 GetDB()
+2021/02/16 15:44:47 save menuEmployee 
+2021/02/16 15:44:47 employee_id : 1
+2021/02/16 15:44:47 Menu_id : 2
+2021/02/16 15:44:47 GetDB()
+2021/02/16 15:44:47 save menuEmployee 
+2021/02/16 15:44:47 employee_id : 1
+2021/02/16 15:44:47 Menu_id : 3
+2021/02/16 15:44:47 GetDB()
+2021/02/16 15:44:47 save menuEmployee 
+2021/02/16 15:44:47 employee_id : 1
+2021/02/16 15:44:47 Menu_id : 4
+2021/02/16 15:44:47 no err
+2021/02/16 15:44:49 LoginByDeviceID()
+2021/02/16 15:44:49 GetDB()
+2021/02/16 15:44:49 record not found
+2021/02/16 15:44:59 Login()
+2021/02/16 15:44:59 GetDB()
+2021/02/16 15:44:59 login by mobile password , ID in table is 1
+2021/02/16 15:44:59 GetDB()
+2021/02/16 15:44:59 save device , table device id is : 1
+2021/02/16 15:44:59 GetDataDashboard()
+2021/02/16 15:44:59 GetDB()
+2021/02/16 15:44:59 GetSidebarByEmployeeid()
+2021/02/16 15:44:59 GetDB()
+2021/02/16 15:44:59 GetDB()
+2021/02/16 15:44:59 GetDB()
+2021/02/16 15:44:59 GetDB()
+2021/02/16 15:44:59 GetDB()
+2021/02/16 15:44:59 successfully GetDataDashboard
+2021/02/16 15:45:34 LoginByDeviceID()
+2021/02/16 15:45:34 GetDB()
+2021/02/16 15:45:34 login by device , ID in table is 1
+2021/02/16 15:45:34 new device token for login by device isbfAyODngrPEawlMuseISsiGbf
+2021/02/16 15:45:34 GetDB()
+2021/02/16 15:45:34 update token device successfully
+2021/02/16 15:45:34 GetDataDashboard()
+2021/02/16 15:45:34 GetDB()
+2021/02/16 15:45:34 GetSidebarByEmployeeid()
+2021/02/16 15:45:34 GetDB()
+2021/02/16 15:45:34 GetDB()
+2021/02/16 15:45:34 GetDB()
+2021/02/16 15:45:34 GetDB()
+2021/02/16 15:45:34 GetDB()
+2021/02/16 15:45:34 successfully GetDataDashboard
+2021/02/16 15:49:03 LoginByDeviceID()
+2021/02/16 15:49:03 GetDB()
+2021/02/16 15:49:03 login by device , ID in table is 1
+2021/02/16 15:49:03 new device token for login by device isRDyKheeDhZgYNgPvVALrIRDyK
+2021/02/16 15:49:03 GetDB()
+2021/02/16 15:49:03 update token device successfully
+2021/02/16 15:49:03 GetDataDashboard()
+2021/02/16 15:49:03 GetDB()
+2021/02/16 15:49:03 GetSidebarByEmployeeid()
+2021/02/16 15:49:03 GetDB()
+2021/02/16 15:49:03 GetDB()
+2021/02/16 15:49:03 GetDB()
+2021/02/16 15:49:03 GetDB()
+2021/02/16 15:49:03 GetDB()
+2021/02/16 15:49:03 successfully GetDataDashboard
+2021/02/16 15:49:29 init()
+2021/02/16 15:49:29 run server
+2021/02/16 15:49:29 StartApp()
+2021/02/16 15:49:29 DbConn()
+2021/02/16 15:49:29 Url()
+2021/02/16 15:49:43 LoginByDeviceID()
+2021/02/16 15:49:43 GetDB()
+2021/02/16 15:49:43 login by device , ID in table is 1
+2021/02/16 15:49:43 new device token for login by device isshHcLpwFpAIDYvMhnqdnshHcL
+2021/02/16 15:49:43 GetDB()
+2021/02/16 15:49:43 update token device successfully
+2021/02/16 15:49:44 GetDataDashboard()
+2021/02/16 15:49:44 GetDB()
+2021/02/16 15:49:44 GetSidebarByEmployeeid()
+2021/02/16 15:49:44 GetDB()
+2021/02/16 15:49:44 GetDB()
+2021/02/16 15:49:44 GetDB()
+2021/02/16 15:49:44 GetDB()
+2021/02/16 15:49:44 GetDB()
+2021/02/16 15:49:44 successfully GetDataDashboard
+2021/02/16 15:54:15 LoginByDeviceID()
+2021/02/16 15:54:15 GetDB()
+2021/02/16 15:54:15 login by device , ID in table is 1
+2021/02/16 15:54:15 new device token for login by device isbfAyODngrPEawlMuseISsiGbf
+2021/02/16 15:54:15 GetDB()
+2021/02/16 15:54:15 update token device successfully
+2021/02/16 15:54:16 GetDataDashboard()
+2021/02/16 15:54:16 GetDB()
+2021/02/16 15:54:16 GetSidebarByEmployeeid()
+2021/02/16 15:54:16 GetDB()
+2021/02/16 15:54:16 GetDB()
+2021/02/16 15:54:16 GetDB()
+2021/02/16 15:54:16 GetDB()
+2021/02/16 15:54:16 GetDB()
+2021/02/16 15:54:16 successfully GetDataDashboard
+2021/02/16 15:56:15 Logout()
+2021/02/16 15:56:15 GetDB()
+2021/02/16 15:56:15 Logout , employee ID in table is 0
+2021/02/16 15:56:16 GetDB()
+2021/02/16 16:26:09 GetDB()
+2021/02/16 16:37:45 GetDB()
+2021/02/16 16:38:23 GetDB()
+2021/02/16 16:38:46 GetDB()
+2021/02/16 16:44:42 GetDB()
+2021/02/16 17:16:46 SaveRegister()
+2021/02/16 17:16:46 GetDB()
+2021/02/16 17:16:46 add data in employeeData
+2021/02/16 17:16:46 befor save employeeData
+2021/02/16 17:16:46 GetDB()
+2021/02/16 17:16:46 after save employeeData
+2021/02/16 17:16:46 no err
+2021/02/16 17:17:32 GetDB()
+2021/02/16 17:18:03 SaveRegister()
+2021/02/16 17:18:03 GetDB()
+2021/02/16 17:18:03 add data in employeeData
+2021/02/16 17:18:03 befor save employeeData
+2021/02/16 17:18:03 GetDB()
+2021/02/16 17:18:03 after save employeeData
+2021/02/16 17:18:03 no err
+2021/02/16 17:19:41 init()
+2021/02/16 17:19:41 run server
+2021/02/16 17:19:41 StartApp()
+2021/02/16 17:19:41 DbConn()
+2021/02/16 17:19:41 Url()
+2021/02/16 17:19:46 GetDB()
+2021/02/16 17:20:09 SaveRegister()
+2021/02/16 17:20:09 GetDB()
+2021/02/16 17:20:09 add data in employeeData
+2021/02/16 17:20:09 end save detail employeeData
+2021/02/16 17:20:09 save image employeeData
+2021/02/16 17:20:09 open /storage/employee/asdf.png: 
+2021/02/16 17:20:09 befor save employeeData
+2021/02/16 17:20:09 GetDB()
+2021/02/16 17:20:09 after save employeeData
+2021/02/16 17:20:09 no err
+2021/02/16 17:29:03 init()
+2021/02/16 17:29:03 run server
+2021/02/16 17:29:03 StartApp()
+2021/02/16 17:29:03 DbConn()
+2021/02/16 17:29:03 Url()
+2021/02/16 17:29:08 GetDB()
+2021/02/16 17:29:38 SaveRegister()
+2021/02/16 17:29:38 GetDB()
+2021/02/16 17:29:38 add data in employeeData
+2021/02/16 17:29:38 end save detail employeeData
+2021/02/16 17:29:39 save image employeeData
+2021/02/16 17:29:39 open /storage/employee/asdf.jpg: The system cannot find the path specified.
+2021/02/16 17:29:39 befor save employeeData
+2021/02/16 17:29:39 GetDB()
+2021/02/16 17:29:39 after save employeeData
+2021/02/16 17:29:39 no err
+2021/02/16 17:31:18 init()
+2021/02/16 17:31:18 run server
+2021/02/16 17:31:18 StartApp()
+2021/02/16 17:31:18 DbConn()
+2021/02/16 17:31:18 Url()
+2021/02/16 17:31:23 GetDB()
+2021/02/16 17:31:45 SaveRegister()
+2021/02/16 17:31:45 GetDB()
+2021/02/16 17:31:45 add data in employeeData
+2021/02/16 17:31:45 end save detail employeeData
+2021/02/16 17:31:45 save image employeeData
+2021/02/16 17:31:45 befor save employeeData
+2021/02/16 17:31:45 GetDB()
+2021/02/16 17:31:45 after save employeeData
+2021/02/16 17:31:45 no err
+2021/02/16 17:32:17 init()
+2021/02/16 17:32:17 run server
+2021/02/16 17:32:17 StartApp()
+2021/02/16 17:32:17 DbConn()
+2021/02/16 17:32:17 Url()
+2021/02/16 17:32:20 GetDB()
+2021/02/16 17:32:48 SaveRegister()
+2021/02/16 17:32:48 GetDB()
+2021/02/16 17:32:48 add data in employeeData
+2021/02/16 17:32:48 end save detail employeeData
+2021/02/16 17:32:48 save image employeeData
+2021/02/16 17:32:48 open /storage/employee/asdf.jpg: The system cannot find the path specified.
+2021/02/16 17:32:48 befor save employeeData
+2021/02/16 17:32:48 GetDB()
+2021/02/16 17:32:48 after save employeeData
+2021/02/16 17:32:48 no err
+2021/02/16 17:33:21 init()
+2021/02/16 17:33:21 run server
+2021/02/16 17:33:21 StartApp()
+2021/02/16 17:33:21 DbConn()
+2021/02/16 17:33:21 Url()
+2021/02/16 17:33:31 GetDB()
+2021/02/16 17:33:56 SaveRegister()
+2021/02/16 17:33:57 GetDB()
+2021/02/16 17:33:57 add data in employeeData
+2021/02/16 17:33:57 end save detail employeeData
+2021/02/16 17:33:57 save image employeeData
+2021/02/16 17:33:57 open /storage/asdf.jpg: The system cannot find the path specified.
+2021/02/16 17:33:57 befor save employeeData
+2021/02/16 17:33:57 GetDB()
+2021/02/16 17:33:57 after save employeeData
+2021/02/16 17:33:57 no err
+2021/02/16 17:34:13 init()
+2021/02/16 17:34:13 run server
+2021/02/16 17:34:13 StartApp()
+2021/02/16 17:34:13 DbConn()
+2021/02/16 17:34:13 Url()
+2021/02/16 17:34:16 GetDB()
+2021/02/16 17:34:41 SaveRegister()
+2021/02/16 17:34:42 GetDB()
+2021/02/16 17:34:42 add data in employeeData
+2021/02/16 17:34:42 end save detail employeeData
+2021/02/16 17:34:42 save image employeeData
+2021/02/16 17:34:42 befor save employeeData
+2021/02/16 17:34:42 GetDB()
+2021/02/16 17:34:42 after save employeeData
+2021/02/16 17:34:42 no err
+2021/02/16 17:36:14 init()
+2021/02/16 17:36:14 run server
+2021/02/16 17:36:14 StartApp()
+2021/02/16 17:36:14 DbConn()
+2021/02/16 17:36:14 Url()
+2021/02/16 17:36:24 GetDB()
+2021/02/16 17:36:49 SaveRegister()
+2021/02/16 17:36:49 GetDB()
+2021/02/16 17:36:49 add data in employeeData
+2021/02/16 17:36:49 end save detail employeeData
+2021/02/16 17:36:49 save image employeeData
+2021/02/16 17:36:49 open /storage/asdf.jpg: The system cannot find the path specified.
+2021/02/16 17:36:49 befor save employeeData
+2021/02/16 17:36:49 GetDB()
+2021/02/16 17:36:49 after save employeeData
+2021/02/16 17:36:49 no err
+2021/02/16 17:37:31 init()
+2021/02/16 17:37:31 run server
+2021/02/16 17:37:31 StartApp()
+2021/02/16 17:37:31 DbConn()
+2021/02/16 17:37:31 Url()
+2021/02/16 17:37:36 GetDB()
+2021/02/16 17:37:58 SaveRegister()
+2021/02/16 17:37:58 GetDB()
+2021/02/16 17:37:58 add data in employeeData
+2021/02/16 17:37:58 end save detail employeeData
+2021/02/16 17:37:58 save image employeeData
+2021/02/16 17:37:58 befor save employeeData
+2021/02/16 17:37:58 GetDB()
+2021/02/16 17:37:58 after save employeeData
+2021/02/16 17:37:58 no err
+2021/02/16 17:38:25 init()
+2021/02/16 17:38:25 run server
+2021/02/16 17:38:25 StartApp()
+2021/02/16 17:38:25 DbConn()
+2021/02/16 17:38:25 Url()
+2021/02/16 17:38:34 GetDB()
+2021/02/16 17:38:58 SaveRegister()
+2021/02/16 17:38:58 GetDB()
+2021/02/16 17:38:58 add data in employeeData
+2021/02/16 17:38:58 end save detail employeeData
+2021/02/16 17:38:58 save image employeeData
+2021/02/16 17:38:58 befor save employeeData
+2021/02/16 17:38:58 GetDB()
+2021/02/16 17:38:58 after save employeeData
+2021/02/16 17:38:58 no err

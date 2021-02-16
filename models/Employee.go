@@ -23,6 +23,7 @@ type Employee struct {
 	Is_active      int        `json:"is_active"`
 	Levels         Level      `gorm:"foreignKey:Level_id;"`
 	Level_id       int        `json:"level_id" gorm:"default:null"`
+	Path_image     string     `json:"path_image" gorm:"comment:ลิ้งรูป;default:null"`
 }
 
 // type DeviceModel struct {
